@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title description">
   <title id="title">Pavel · MrFerrumL</title>
-  <desc id="description">Python backend. A graphite banner with a mint-green iron element tile, Fe 26.</desc>
+  <desc id="description">Applied machine learning and backend development. A graphite banner with a mint-green iron element tile, Fe 26.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="370" gradientUnits="userSpaceOnUse">
       <stop stop-color="#171f21"/>
@@ -50,9 +50,9 @@
     <path d="M76 108h18" fill="none" stroke="#ccfeb7" stroke-width="1.5"/>
     <text x="108" y="114" fill="#c2d3cb" font-family="Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" letter-spacing="3.4">PAVEL</text>
     <text x="70" y="221" fill="#f4faf5" font-family="'Segoe UI', Arial, sans-serif" font-size="112" font-weight="750" letter-spacing="-5">MrFerrumL</text>
-    <rect x="76" y="256" width="268" height="44" rx="7" fill="#22322a" stroke="#719381" stroke-opacity=".52"/>
+    <rect x="76" y="256" width="352" height="44" rx="7" fill="#22322a" stroke="#719381" stroke-opacity=".52"/>
     <circle cx="104" cy="278" r="4" fill="#c1f3aa"/>
-    <text x="124" y="286" fill="#dcf3de" font-family="Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" letter-spacing="1.6">PYTHON BACKEND</text>
+    <text x="124" y="286" fill="#dcf3de" font-family="Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" letter-spacing="1.6"><tspan fill="#d2ffc0">APPLIED ML</tspan> / BACKEND</text>
   </g>
   <rect x=".75" y=".75" width="1198.5" height="368.5" rx="19.25" fill="none" stroke="#8daaa0" stroke-opacity=".32" stroke-width="1.5"/>
 </svg>
