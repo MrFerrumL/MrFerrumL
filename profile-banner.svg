@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title description">
+  <title id="title">Pavel · MrFerrumL</title>
+  <desc id="description">Python backend. A graphite banner with a mint-green iron element tile, Fe 26.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#171f21"/>
+      <stop offset=".54" stop-color="#101518"/>
+      <stop offset="1" stop-color="#131e1c"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(969 176) scale(329 232)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#395e46" stop-opacity=".42"/>
+      <stop offset="1" stop-color="#25382d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#b6d0be" stroke-opacity=".09"/>
+    </pattern>
+    <linearGradient id="gridFade" x1="590" y1="0" x2="1070" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <mask id="gridMask">
+      <path d="M0 0h1200v370H0z" fill="url(#gridFade)"/>
+    </mask>
+    <linearGradient id="tile" x1="857" y1="285" x2="1048" y2="75" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#192824"/>
+      <stop offset="1" stop-color="#263b2e"/>
+    </linearGradient>
+    <clipPath id="frame">
+      <rect width="1200" height="370" rx="20"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path d="M0 0h1200v370H0z" fill="url(#background)"/>
+    <path d="M0 0h1200v370H0z" fill="url(#halo)"/>
+    <path d="M0 0h1200v370H0z" fill="url(#grid)" mask="url(#gridMask)"/>
+    <path d="M44 50V44H50M1150 44h6v6M44 320v6h6m1100 0h6v-6" fill="none" stroke="#77978b" stroke-opacity=".55" stroke-width="1.4"/>
+    <path d="M750 102h44l55 55m-99 110h58l41-41m222-103h30l29-29h70m-130 146h35l29 29h66" fill="none" stroke="#8ab5a1" stroke-opacity=".32" stroke-width="1.2"/>
+    <circle cx="750" cy="102" r="3" fill="#8ab5a1" fill-opacity=".46"/>
+    <circle cx="750" cy="267" r="3" fill="#8ab5a1" fill-opacity=".46"/>
+    <path d="M859 65h201l17 17v200l-17 17H859l-17-17V82z" fill="#111916" fill-opacity=".85" stroke="#7aab91" stroke-opacity=".30"/>
+    <path d="M867 77h185l13 13v184l-13 13H867l-13-13V90z" fill="url(#tile)" stroke="#9bd1ad" stroke-opacity=".64" stroke-width="1.1"/>
+    <path d="M867 77h36m149 0 13 13v17m0 151v16l-13 13m-185 0-13-13v-17" fill="none" stroke="#ccfeb7" stroke-opacity=".72" stroke-width="1.8"/>
+    <path d="M885 239h149" fill="none" stroke="#a9d7bf" stroke-opacity=".34"/>
+    <path d="M1028 103h8m-4-4v8" fill="none" stroke="#b6eac8" stroke-opacity=".75" stroke-width="1.4"/>
+    <g fill="#d2ffc0" font-family="Consolas, 'Liberation Mono', monospace">
+      <text x="886" y="115" font-size="26" font-weight="700">26</text>
+      <text x="885" y="263" font-size="14" font-weight="700" letter-spacing="3.4" fill="#a0bda9">FERRUM</text>
+    </g>
+    <text x="961" y="220" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="109" font-weight="700" letter-spacing="-5" fill="#d2ffc0">Fe</text>
+    <path d="M76 108h18" fill="none" stroke="#ccfeb7" stroke-width="1.5"/>
+    <text x="108" y="114" fill="#c2d3cb" font-family="Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" letter-spacing="3.4">PAVEL</text>
+    <text x="70" y="221" fill="#f4faf5" font-family="'Segoe UI', Arial, sans-serif" font-size="112" font-weight="750" letter-spacing="-5">MrFerrumL</text>
+    <rect x="76" y="256" width="268" height="44" rx="7" fill="#22322a" stroke="#719381" stroke-opacity=".52"/>
+    <circle cx="104" cy="278" r="4" fill="#c1f3aa"/>
+    <text x="124" y="286" fill="#dcf3de" font-family="Consolas, 'Liberation Mono', monospace" font-size="22" font-weight="700" letter-spacing="1.6">PYTHON BACKEND</text>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="368.5" rx="19.25" fill="none" stroke="#8daaa0" stroke-opacity=".32" stroke-width="1.5"/>
+</svg>
